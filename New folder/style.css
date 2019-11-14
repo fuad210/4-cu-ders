@@ -1,0 +1,61 @@
+#bir{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRY0F7FtsusOD5_ejn3E6KFhjl61X2D9Ny6a_AlMIc6I0KfgS1y);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-weight: 50px; 
+    padding: 291px
+    
+}
+#bir h1{
+    margin: 16px 59px 5px;
+    font-size: 52px;
+    font-weight: bold;
+}
+#bir h3{
+    font-size: 18px;
+    font-style: italic;
+}
+#bir button{
+    display: inline-block;
+    color: white;
+    background: blue;
+    margin: 18px;
+    padding: 31px;
+    padding-top: 17px;
+    padding-bottom: 19px;
+}
+#iki {
+     
+    text-align: center; 
+    padding: 50px:
+    font: weight 700px;
+}
+#iki h2{
+
+}
+#iki p{
+
+}
+#iki button{
+    display: inline-block;
+    color: white;
+    background: blue;
+    margin: 18px;
+    padding: 31px;
+    padding-top: 17px;
+    padding-bottom: 19px;
+}
+#uc {
+    background: #1d809f;
+    text-align: center;
+    font-weight: 500px;
+    margin: 5px;
+    padding: 10px;
+}
+#uc h3{
+    
+}
+#uc h2{
+
+}
